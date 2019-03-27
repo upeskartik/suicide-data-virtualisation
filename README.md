@@ -1,1 +1,1 @@
-# suicide-data-virtualisation
+# suicide-data-visualisation
